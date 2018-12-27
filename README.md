@@ -13,3 +13,5 @@ Running environment:
 Usage:
 
 python demo.py
+
+test linux
