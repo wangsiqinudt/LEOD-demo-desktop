@@ -13,5 +13,3 @@ Running environment:
 Usage:
 
 python demo.py
-
-final test
